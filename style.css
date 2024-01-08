@@ -1,0 +1,87 @@
+/* Hero section */
+
+.hero-section {
+    background-image: url("./resources/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+    height: 600px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: linear-gradient(rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3));
+}
+
+.hero-section-first-heading {
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.hero-section-second-heading {
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+/* discount-section */
+
+.discount-section {
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 100px;
+}
+
+.discount-section-first {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    margin-bottom: 40px;
+}
+
+.discount-section-second {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+    margin-bottom: 20px;
+}
+
+.discount-section-third {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    margin-bottom: 40px;
+}
+
+/* midnight-party-section */
+
+.midnight-party-section {
+    background-image: url("./resources/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+    height: 600px;
+    text-align: center;
+    color: #FFFFFF;
+}
